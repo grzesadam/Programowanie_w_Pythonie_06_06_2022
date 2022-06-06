@@ -1,0 +1,2 @@
+# Programowanie_w_Pythonie_06_06_2022
+Dataclasses
